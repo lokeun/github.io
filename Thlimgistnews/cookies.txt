@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.legit.ng	TRUE	/	FALSE	1999999999	akamai_dsa	ec64a64dc8f2a7e9d7bdb1bb6562ccfcdc270ded0b511355f9ab694b28505258a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22akamai_dsa%22%3Bi%3A1%3Bs%3A11%3A%22desktop%7C0%7C0%22%3B%7D
+www.legit.ng	TRUE	/	FALSE	1999999999	_csrf	796dc01f72cd52c4fc9832cb3b18294c12c28764158a7224ecb805b6748026e2a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%227GO1O0CqzBXZTqgz1HNkw6cT0jnqL1oS%22%3B%7D
+.legit.ng	TRUE	/	FALSE	1999999999	tv_group_edge	10
+
